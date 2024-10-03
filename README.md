@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Uttkarsh55
+- 👋 Hi, I’m @Uttkarsh Monga
 - 👀 I’m interested in development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me - 
-- 😄 Pronouns: ...
+- 📫 How to reach me - instagram - uttkarsh_1141
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
 <!---
